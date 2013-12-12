@@ -1,0 +1,40 @@
+Source: singledispatch
+Maintainer: Barry Warsaw <barry@debian.org>
+Uploaders: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Homepage: http://docs.python.org/3/library/functools.html#functools.singledispatch
+Section: python
+X-Python-Version: >= 2.6
+X-Python3-Version: >= 3.2
+Priority: optional
+Build-Depends: debhelper (>= 8),
+               dh-python,
+               python-all (>= 2.6.6-3~),
+               python-setuptools,
+               python3-all,
+               python3-setuptools
+Standards-Version: 3.9.5
+Vcs-Hg: https://bitbucket.org/ambv/singledispatch
+
+Package: python-singledispatch
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: single-dispatch generic functions for Python
+ PEP 443 proposed to expose a mechanism in the functools standard library
+ module in Python 3.4 that provides a simple form of generic programming known
+ as single-dispatch generic functions.
+ .
+ This library is a backport of this functionality to Python 2.6 - 3.3.
+ .
+ This is the Python 2 version of the library.
+
+Package: python3-singledispatch
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: single-dispatch generic functions for Python
+ PEP 443 proposed to expose a mechanism in the functools standard library
+ module in Python 3.4 that provides a simple form of generic programming known
+ as single-dispatch generic functions.
+ .
+ This library is a backport of this functionality to Python 2.6 - 3.3.
+ .
+ This is the Python 3 version of the library.
