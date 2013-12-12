@@ -1,0 +1,5 @@
+singledispatch (3.4.0.2-1) unstable; urgency=low
+
+  * Initial release.  Closes: #732038
+
+ -- Barry Warsaw <barry@debian.org>  Thu, 12 Dec 2013 18:40:37 -0500
