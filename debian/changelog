@@ -1,10 +1,10 @@
-singledispatch (3.4.0.3-1) UNRELEASED; urgency=medium
+singledispatch (3.4.0.3-1) unstable; urgency=medium
 
   * New upstream release.
   * d/python3-singledispatch.pyremove: Added to remove extra egg-info
     directory, avoiding a lintian warning.
 
- -- Barry Warsaw <barry@debian.org>  Mon, 19 May 2014 16:40:48 -0400
+ -- Barry Warsaw <barry@debian.org>  Mon, 19 May 2014 16:47:22 -0400
 
 singledispatch (3.4.0.2-1) unstable; urgency=low
 
