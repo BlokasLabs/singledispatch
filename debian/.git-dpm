@@ -6,3 +6,6 @@
 singledispatch_3.4.0.3.orig.tar.gz
 f93241b06754a612af8bb7aa208c4d1805637022
 9529
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
