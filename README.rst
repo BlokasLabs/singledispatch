@@ -145,6 +145,12 @@ members of the core CPython team:
 Change Log
 ----------
 
+3.4.0.3
+~~~~~~~
+
+Should now install flawlessly on PyPy as well. Thanks to Ryan Petrello
+for finding and fixing the ``setup.py`` issue.
+
 3.4.0.2
 ~~~~~~~
 
