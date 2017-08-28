@@ -1,6 +1,10 @@
 singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
 
+  [ Ondřej Nový ]
   * Fixed VCS URL (https)
+
+  [ Barry Warsaw ]
+  * d/control: Put DPMT in Maintainers and myself in Uploaders.
 
  -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 22:32:00 +0200
 

@@ -1,6 +1,6 @@
 Source: singledispatch
-Maintainer: Barry Warsaw <barry@debian.org>
-Uploaders: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Uploaders: Barry Warsaw <barry@debian.org>
 Homepage: http://docs.python.org/3/library/functools.html#functools.singledispatch
 Section: python
 X-Python-Version: >= 2.6
