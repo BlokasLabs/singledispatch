@@ -6,6 +6,9 @@ singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
   [ Barry Warsaw ]
   * d/control: Put DPMT in Maintainers and myself in Uploaders.
 
+  [ Ondřej Nový ]
+  * d/control: Set Vcs-* to salsa.debian.org
+
  -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 22:32:00 +0200
 
 singledispatch (3.4.0.3-2) unstable; urgency=medium
