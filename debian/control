@@ -3,7 +3,6 @@ Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.
 Uploaders: Barry Warsaw <barry@debian.org>
 Homepage: http://docs.python.org/3/library/functools.html#functools.singledispatch
 Section: python
-X-Python3-Version: >= 3.2
 Priority: optional
 Build-Depends: debhelper (>= 9),
                dh-python,
