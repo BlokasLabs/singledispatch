@@ -2,6 +2,7 @@ singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
 
   [ Ondřej Nový ]
   * Fixed VCS URL (https)
+  * d/control: Remove ancient X-Python-Version field
 
   [ Barry Warsaw ]
   * d/control: Put DPMT in Maintainers and myself in Uploaders.
