@@ -5,6 +5,7 @@ singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
   * d/control: Remove ancient X-Python-Version field
   * d/control: Remove ancient X-Python3-Version field
   * Convert git repository from git-dpm to gbp layout
+  * Use debhelper-compat instead of debian/compat.
 
   [ Barry Warsaw ]
   * d/control: Put DPMT in Maintainers and myself in Uploaders.

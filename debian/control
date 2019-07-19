@@ -4,7 +4,7 @@ Uploaders: Barry Warsaw <barry@debian.org>
 Homepage: http://docs.python.org/3/library/functools.html#functools.singledispatch
 Section: python
 Priority: optional
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper-compat (= 9),
                dh-python,
                python-all (>= 2.6.6-3~),
                python-setuptools,
