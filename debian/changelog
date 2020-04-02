@@ -1,4 +1,4 @@
-singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
+singledispatch (3.4.0.3-3) unstable; urgency=medium
 
   [ Ondřej Nový ]
   * Fixed VCS URL (https)
@@ -18,7 +18,7 @@ singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
   [ Sandro Tosi ]
   * Drop python2 support; Closes: #938487
 
- -- Sandro Tosi <morph@debian.org>  Wed, 01 Apr 2020 23:06:00 -0400
+ -- Sandro Tosi <morph@debian.org>  Wed, 01 Apr 2020 23:09:26 -0400
 
 singledispatch (3.4.0.3-2) unstable; urgency=medium
 
