@@ -15,7 +15,10 @@ singledispatch (3.4.0.3-3) UNRELEASED; urgency=medium
   * d/copyright: Use https protocol in Format field
   * d/watch: Use https protocol
 
- -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 22:32:00 +0200
+  [ Sandro Tosi ]
+  * Drop python2 support; Closes: #938487
+
+ -- Sandro Tosi <morph@debian.org>  Wed, 01 Apr 2020 23:06:00 -0400
 
 singledispatch (3.4.0.3-2) unstable; urgency=medium
 
