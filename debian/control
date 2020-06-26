@@ -1,7 +1,7 @@
 Source: singledispatch
 Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
 Uploaders: Barry Warsaw <barry@debian.org>
-Homepage: http://docs.python.org/3/library/functools.html#functools.singledispatch
+Homepage: https://docs.python.org/3/library/functools.html#functools.singledispatch
 Section: python
 Priority: optional
 Build-Depends: debhelper-compat (= 9),
