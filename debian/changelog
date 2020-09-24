@@ -1,7 +1,12 @@
 singledispatch (3.4.0.3-4) UNRELEASED; urgency=low
 
+  [ Debian Janitor ]
   * Use secure URI in Homepage field.
   * Bump debhelper from deprecated 9 to 12.
+
+  [ Ondřej Nový ]
+  * d/control: Update Maintainer field with new Debian Python Team
+    contact address.
 
  -- Debian Janitor <janitor@jelmer.uk>  Fri, 26 Jun 2020 23:03:19 -0000
 
