@@ -10,6 +10,9 @@ singledispatch (3.4.0.3-4) UNRELEASED; urgency=low
   * d/control: Update Vcs-* fields with new Debian Python Team Salsa
     layout.
 
+  [ Debian Janitor ]
+  * Remove MIA uploader Barry Warsaw <barry@debian.org>. Closes: #970182
+
  -- Debian Janitor <janitor@jelmer.uk>  Fri, 26 Jun 2020 23:03:19 -0000
 
 singledispatch (3.4.0.3-3) unstable; urgency=medium

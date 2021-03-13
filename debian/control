@@ -1,6 +1,5 @@
 Source: singledispatch
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
-Uploaders: Barry Warsaw <barry@debian.org>
 Homepage: https://docs.python.org/3/library/functools.html#functools.singledispatch
 Section: python
 Priority: optional
