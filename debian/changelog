@@ -12,6 +12,7 @@ singledispatch (3.4.0.3-4) UNRELEASED; urgency=low
 
   [ Debian Janitor ]
   * Remove MIA uploader Barry Warsaw <barry@debian.org>. Closes: #970182
+  * Bump debhelper from old 12 to 13.
 
  -- Debian Janitor <janitor@jelmer.uk>  Fri, 26 Jun 2020 23:03:19 -0000
 
