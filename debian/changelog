@@ -1,4 +1,4 @@
-singledispatch (3.4.0.3-4) UNRELEASED; urgency=low
+singledispatch (3.4.0.3-4) unstable; urgency=low
 
   [ Debian Janitor ]
   * Use secure URI in Homepage field.
@@ -14,7 +14,7 @@ singledispatch (3.4.0.3-4) UNRELEASED; urgency=low
   * Remove MIA uploader Barry Warsaw <barry@debian.org>. Closes: #970182
   * Bump debhelper from old 12 to 13.
 
- -- Debian Janitor <janitor@jelmer.uk>  Fri, 26 Jun 2020 23:03:19 -0000
+ -- Sandro Tosi <morph@debian.org>  Sat, 04 Jun 2022 20:22:49 -0400
 
 singledispatch (3.4.0.3-3) unstable; urgency=medium
 
