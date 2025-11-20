@@ -1,3 +1,9 @@
+singledispatch (3.4.0.3-5) unstable; urgency=low
+
+  * Rebuilt for trixie.
+
+ -- Giedrius Trainavičius <giedrius@blokas.io>  Thu, 20 Nov 2025 10:42:03 +0200
+
 singledispatch (3.4.0.3-4) unstable; urgency=low
 
   [ Debian Janitor ]
